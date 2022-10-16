@@ -1,0 +1,1 @@
+I decided to use "Visual Studio Code" ( and some SublimeText, since i am familiar with it) during the advanced Masterclass. I actually wanted to use/try "ATOM", but i just recently found out that it is gonna be discontinued from 15 December 2022 onwards. VScode ( atleast for me ) feels well integrated. Maybe will change my mind later.
