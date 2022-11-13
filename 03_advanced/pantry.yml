@@ -1,0 +1,17 @@
+#*********************************************************************
+# content = PANTRY Asset Library Manager - yaml
+#
+# version = 0.0.0 
+# date = 2022-11-13
+#
+# license = MIT
+# author = Padmacumar Prabhaharan <padmacumar@gmail.com>
+#*********************************************************************
+
+project path: default maya
+
+supported dcc: maya
+
+Supported formats:
+
+        maya: .ma, .mb, .fbx, .obj
